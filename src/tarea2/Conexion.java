@@ -18,7 +18,7 @@ public class Conexion {
     String password = "root";
     String driver = "com.mysql.cj.jdbc.Driver";
     Connection con;
-
+//a
     public Connection conectar() {
         System.out.println(bd);
         try {
